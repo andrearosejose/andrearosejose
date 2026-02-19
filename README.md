@@ -25,9 +25,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=andrearosejose&theme=shadow_red&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrearosejose&theme=shadow_red&hide_border=false&layout=compact)
 
----
 
-<!-- ===================== VISITOR COUNT ===================== -->
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=andrearosejose&icon=0&color=0"/>
-</p>
