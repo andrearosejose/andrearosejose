@@ -68,5 +68,6 @@
 
 # 📈 Contribution Activity
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrearosejose&bg_color=ffffff&color=ff0000&line=ff3333&point=ff0000&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrearosejose&bg_color=ffffff&color=cc0000&line=ff0000&point=ff6666&area=true&hide_border=true"/>
+
 </p>
