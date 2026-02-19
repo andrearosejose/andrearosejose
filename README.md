@@ -66,8 +66,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=andrearosejose&theme=shadow_red&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrearosejose&theme=shadow_red&hide_border=false&layout=compact)
 
-# 🟩 Contribution Calendar
+# 📈 Contribution Activity
 <p align="center">
-<img src="https://ghchart.rshah.org/ff0000/andrearosejose" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrearosejose&theme=react-dark&hide_border=true&area=true"/>
 </p>
-
