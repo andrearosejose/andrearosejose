@@ -21,15 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-rose-jose-12a9b1235)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrearosejose@gmail.com)
 
----
-
-# 📈 Contribution Activity 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrearosejose&theme=github-compact&hide_border=true&area=true"/>
-</p>
-
----
-
 # 💻 Tech Stack
 
 ### 💻 Programming & Core  
@@ -74,6 +65,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=andrearosejose&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=andrearosejose&theme=shadow_red&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrearosejose&theme=shadow_red&hide_border=false&layout=compact)
+
+---
+
+# 📈 Contribution Activity 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrearosejose&theme=github-compact&hide_border=true&area=true"/>
+</p>
 
 ---
 
